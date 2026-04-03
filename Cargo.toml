@@ -1,0 +1,8 @@
+[package]
+name = "rust_dodge_game"
+version = "0.1.0"
+edition = "2021"
+description = "A 2D dodge game built with Rust and Macroquad - learn Rust through game dev!"
+
+[dependencies]
+macroquad = "0.4"
